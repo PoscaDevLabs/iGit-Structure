@@ -1,5 +1,4 @@
 # Tutorial
-Here’s how you can make your own IPA file without a Mac or iPad
 
 # Step One:
 Fork this repository. On your screen you should see Fork click it and fork the repository.
